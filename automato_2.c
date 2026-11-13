@@ -5,7 +5,7 @@ int p;
 
 void le_palavra(){
     p = 0;
-    s = "O computador e uma maquina capaz de variados tipos de tratamento automatico de informacoes ou processamento de dados. Entende-se por computador um sistema fisico que realiza algum tipo de computacao. Assumiu-se que os computadores pessoais e laptops sao icones da era da informacao. O primeiro computador eletromecanico foi construido por Konrad Zuse (1910-1995). Atualmente, um microcomputador é também chamado computador pessoal ou ainda computador domestico.@";
+    s = "O computador e uma maquina capaz de variados tipos de tratamento automatico de informacoes ou processamento de dados. Entende-se por computador um sistema fisico que realiza algum tipo de computacao. Assumiu-se que os computadores pessoais e laptops sao icones da era da informacao. O primeiro computador eletromecanico foi construido por Konrad Zuse (1910-1995). Atualmente, um microcomputador e tambem chamado computador pessoal ou ainda computador domestico.@";
 }
 
 bool xp(char c){
